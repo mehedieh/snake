@@ -1,2 +1,6 @@
-# snake
-simple snake game using python
+# Snake
+
+```
+Simple snake game using python and turtle.
+```
+### Enjoy
